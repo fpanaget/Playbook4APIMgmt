@@ -1,5 +1,5 @@
 
-## How to replace a product usubg the API Connect toolkit CLI
+## How to replace a product using the API Connect toolkit CLI
 
 ### Question 
 
