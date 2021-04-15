@@ -1,7 +1,7 @@
 # Playbook4APIMgmt
  My Personal playbook for API Mamagement
 
-### The goal of this reposiory is to provide information and/or tips I have discovered while working API Management tools such as IBM API Connect versions 5.0.8.x, 2018.x and 10
+### The goal of this reposiory is to provide information and/or tips I have discovered while working API Management tools such as IBM API Connect versions 5.0.8.x, 2018.x and 10.0.x
 
 * [IBM API Connect](./ibm_apic) topics:
 
