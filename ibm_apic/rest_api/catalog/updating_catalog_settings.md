@@ -13,7 +13,7 @@ I would like to change the settings of a given catalogs (for example disable/ena
     -H 'Content-Type: application/json' 
      ```   
 
-2. Update a specific catalog settings:
+2. Update a specific catalog settings (two examples):
     1. The ability to use hashed client secret for applications (usefull if you want to create application credentials when you do not have anymore the original client secret unhashed string):
     
        ```
