@@ -19,11 +19,11 @@
       * [How to migrate the plan subscriptions using the IBM API Connnect Toolkit (cli)](./ibm_apic/toolkit/product_subscrition_migration.md)
       * [How to use the SKIP_IBMID_LOGIN environment variable on Microsoft Windows](./ibm_apic/toolkit/skip_login.md)
 
-
    * [Using the REST API](./ibm_apic/rest_api)
-      * [How to register the Client Application credentials (client id/secret) to user REST API](./ibm_apic/rest_api/registrating_application_creds.md)
-      * [How to generate the bearer token to be used for the IBM API Connect Platform - Consumer API](./ibm_apic/rest_api/consumer_api_bearer_token.md)  
-
+      * [How to register the Client Application credentials (client id/secret) to user REST API](./ibm_apic/rest_api/auth/registrating_application_creds.md)
+      * [How to generate the bearer token to be used for the IBM API Connect Platform - Consumer API](./ibm_apic/rest_api/auth/consumer_api_bearer_token.md)  
+      * [How to update the catalog settings with the API Connect REST API](./ibm_apic/rest_api/catalog/updating_catalog_settings.md)  
+      
    * [Testing APIs](./ibm_apic/testing_apis)
       * [Why invoking an API in the IBM API Connect Test tab fails with errors ?](./ibm_apic/testing_apis/sandbox_api_testing.md) 
 
